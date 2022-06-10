@@ -1,0 +1,5 @@
+D:\Рабочий стол\CSLab\Lab3.Models\bin\Debug\Lab3.Models.dll
+D:\Рабочий стол\CSLab\Lab3.Models\bin\Debug\Lab3.Models.pdb
+D:\Рабочий стол\CSLab\Lab3.Models\obj\Debug\Lab3.Models.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\CSLab\Lab3.Models\obj\Debug\Lab3.Models.dll
+D:\Рабочий стол\CSLab\Lab3.Models\obj\Debug\Lab3.Models.pdb

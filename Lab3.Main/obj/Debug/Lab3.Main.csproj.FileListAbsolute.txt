@@ -1,0 +1,14 @@
+D:\Рабочий стол\CSLab\Lab3.Main\bin\Debug\Lab3.Main.exe.config
+D:\Рабочий стол\CSLab\Lab3.Main\bin\Debug\Lab3.Main.exe
+D:\Рабочий стол\CSLab\Lab3.Main\bin\Debug\Lab3.Main.pdb
+D:\Рабочий стол\CSLab\Lab3.Main\bin\Debug\Lab3.Models.dll
+D:\Рабочий стол\CSLab\Lab3.Main\bin\Debug\Lab3.Models.pdb
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.csprojAssemblyReference.cache
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.Form1.resources
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.InputForm.resources
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.Properties.Resources.resources
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.csproj.GenerateResource.cache
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.csproj.CopyComplete
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.exe
+D:\Рабочий стол\CSLab\Lab3.Main\obj\Debug\Lab3.Main.pdb
