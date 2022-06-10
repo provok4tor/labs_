@@ -1,0 +1,6 @@
+D:\Рабочий стол\CSLab\GeometrySquare\bin\Debug\GeometrySquare.dll
+D:\Рабочий стол\CSLab\GeometrySquare\bin\Debug\GeometrySquare.pdb
+D:\Рабочий стол\CSLab\GeometrySquare\obj\Debug\GeometrySquare.csprojAssemblyReference.cache
+D:\Рабочий стол\CSLab\GeometrySquare\obj\Debug\GeometrySquare.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\CSLab\GeometrySquare\obj\Debug\GeometrySquare.dll
+D:\Рабочий стол\CSLab\GeometrySquare\obj\Debug\GeometrySquare.pdb
